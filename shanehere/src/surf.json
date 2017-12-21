@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "image": "./pics/bodyBoard.jpg",
+  },
+  {
+    "id": 1,
+    "image": "./pics/shortBoard.jpg",
+
+  },
+  {
+    "id": 2,
+    "image": "./pics/fish.jpg",
+ 
+  },
+  {
+    "id": 3,
+    "image": "./pics/longboard.jpg",
+   
+  },
+  {
+    "id": 4,  
+    "image": "./pics/bigWaveboard.jpg",
+  
+  }
+]
